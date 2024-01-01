@@ -1,25 +1,38 @@
 
 
-
-  @font-face {
-    font-family: 'GE SS Two';
-    src: url('fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
-        url('fonts/GESSTwoMedium-Medium.woff') format('woff'),
-        url('fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
-        url('fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+@font-face {
+  font-family: 'GE SS Two';
+  src: url('fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
+      url('fonts/GESSTwoMedium-Medium.woff') format('woff'),
+      url('fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
+      url('fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 
 
+h1{
+
+text-align: center;
+font-family:'GE SS Two' ;
+color: #8C5E1C;
 
 
+}
+
+
+
+.content {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
 
 
     #canvas {
-      border: 1px solid #000;
+    
       width: 70%;
             margin: 50px  ;
 
@@ -48,7 +61,21 @@
   background-color: #F082AC;
 }
 
+    #submitButton {
 
+
+      display: block;
+      text-align: center; 
+      width: 200px;
+      margin: 50px ;
+      font-size: 20px;
+      padding:0px ;
+      background-color: #8C5E1C;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+       font-family:'GE SS Two' ;
+    }
 
     #downloadButton {
         
@@ -59,7 +86,7 @@
       margin: 50px ;
       font-size: 20px;
       padding:0px ;
-      background-color: #C0891D;
+      background-color: #8C5E1C;
       color: #fff;
       border: none;
       cursor: pointer;
