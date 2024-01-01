@@ -1,0 +1,70 @@
+
+
+
+  @font-face {
+    font-family: 'GE SS Two';
+    src: url('fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
+        url('fonts/GESSTwoMedium-Medium.woff') format('woff'),
+        url('fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
+        url('fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+    #canvas {
+      border: 1px solid #000;
+      width: 70%;
+            margin: 50px  ;
+
+     font-family:'GESSTwoLight' ;
+      
+    }
+
+    #nameInput {
+        
+   
+
+      display: block;
+      width: 300px;
+      margin: 50px  ;
+      font-size: 18px;
+      padding: 5px;
+      box-sizing: border-box;
+           font-family:'GESSTwoLight' ;
+    }
+    
+
+
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
+
+
+
+    #downloadButton {
+        
+
+         display: block;
+         text-align: center; 
+      width: 200px;
+      margin: 50px ;
+      font-size: 20px;
+      padding:0px ;
+      background-color: #C0891D;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+       font-family:'GESSTwoLight' ;
+      
+    }
+
+    
