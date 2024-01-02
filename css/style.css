@@ -1,7 +1,7 @@
 
 
 @font-face {
-  font-family: 'GESSTwoMedium-Medium';
+  font-family: 'GE SS Two';
   src: url('fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
       url('fonts/GESSTwoMedium-Medium.woff') format('woff'),
       url('fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
@@ -16,7 +16,7 @@ h1{
 
 text-align: center;
 margin: auto;
-font-family:'GESSTwoMedium-Medium' ;
+font-family:'GE SS Two' ;
 color: #8C5E1C;
 
 
@@ -36,7 +36,7 @@ color: #8C5E1C;
     
       width: 70%;
        margin: 70px  ;
-     font-family:'GESSTwoMedium-Medium' ;
+     font-family:'GE SS Two' ;
      
       
     }
@@ -53,7 +53,7 @@ color: #8C5E1C;
       font-size: 16px;
       padding: 5px;
       box-sizing: border-box;
-           font-family:'GESSTwoMedium-Medium' ;
+           font-family:'GE SS Two' ;
     }
     
 
@@ -76,7 +76,7 @@ color: #8C5E1C;
       color: #fff;
       border: none;
       cursor: pointer;
-       font-family:'GESSTwoMedium-Medium' ;
+       font-family:'GE SS Two' ;
     
     }
 
@@ -92,7 +92,7 @@ color: #8C5E1C;
       color: #fff;
       border: none;
       cursor: pointer;
-       font-family:'GESSTwoMedium-Medium' ;
+       font-family:'GE SS Two' ;
        text-decoration: none; 
 
 
