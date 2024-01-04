@@ -1,17 +1,15 @@
 
 
 @font-face {
-  font-family: 'GE SS Two';
-  src: url('./fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
-      url('./fonts/GESSTwoMedium-Medium.woff') format('woff'),
-      url('./fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
-      url('./fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
- font-weight: normal;
+    font-family: 'GE-SS-Two-Medium';
+    src: url("/static/kkux/fonts/GE-SS-Two-Medium.50bd22aa2f61.eot");
+    src: url("/static/kkux/fonts/GE-SS-Two-Medium.50bd22aa2f61.eot?#iefix") format('embedded-opentype'),
+        url("/static/kkux/fonts/GE-SS-Two-Medium.cd9a1b8c3ea0.woff") format('woff'),
+        url("/static/kkux/fonts/GE-SS-Two-Medium.5b1f31889fbc.ttf") format('truetype'),
+        url("/static/kkux/fonts/GE-SS-Two-Medium.db409ed6c632.svg#GE-SS-Two-Light") format('svg');
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
-
 }
-
 
 
 h1{
