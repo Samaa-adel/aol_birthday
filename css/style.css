@@ -2,10 +2,10 @@
 
 @font-face {
   font-family: 'GE SS Two';
-  src: url('fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
-      url('fonts/GESSTwoMedium-Medium.woff') format('woff'),
-      url('fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
-      url('fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
+  src: url('./fonts/GESSTwoMedium-Medium.woff2') format('woff2'),
+      url('./fonts/GESSTwoMedium-Medium.woff') format('woff'),
+      url('./fonts/GESSTwoMedium-Medium.ttf') format('truetype'),
+      url('./fonts/GESSTwoMedium-Medium.svg#GESSTwoMedium-Medium') format('svg');
  font-weight: normal;
     font-style: normal;
     font-display: swap;
